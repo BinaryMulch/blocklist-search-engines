@@ -1,0 +1,13 @@
+# AI chat/answer engines
+# 11 domains
+character.ai
+chat.openai.com
+chatgpt.com
+claude.ai
+copilot.microsoft.com
+gemini.google.com
+perplexity.ai
+poe.com
+www.character.ai
+www.perplexity.ai
+www.poe.com
